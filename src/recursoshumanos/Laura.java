@@ -10,5 +10,7 @@ package recursoshumanos;
  * @author DAM109
  */
 public class Laura {
-    
+    public static void NuevoLaura(){
+        System.out.println("NuevoLaura");    
+}
 }
