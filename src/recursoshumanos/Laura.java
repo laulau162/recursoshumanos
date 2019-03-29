@@ -13,4 +13,9 @@ public class Laura {
     public static void NuevoLaura(){
         System.out.println("NuevoLaura");    
 }
+    
+    public void nuevoIñigo(){
+        System.out.println("Nuevo metodo de Iñigo");
+    }
+    
 }
