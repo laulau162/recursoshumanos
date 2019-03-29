@@ -15,6 +15,9 @@ public class Laura {
         
     public static void NuevoLaura(){
         System.out.println("NuevoLaura");    
+        System.out.println("Laura-Cambio1");
+        System.out.println("Laura-Cambio2");
+        System.out.println("Laura-Cambio3");
 }
 
     
