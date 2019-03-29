@@ -16,6 +16,8 @@ public class Laura {
     
     public void nuevoIñigo(){
         System.out.println("Nuevo metodo de Iñigo");
+        System.out.println("Iñigo - Cambio 1");
+        System.out.println("Iñigo - Cambio 2");
     }
     
 }
