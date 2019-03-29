@@ -11,4 +11,8 @@ package recursoshumanos;
  */
 public class Laura {
     
+    public void nuevoIñigo(){
+        System.out.println("Nuevo metodo de Iñigo");
+    }
+    
 }
